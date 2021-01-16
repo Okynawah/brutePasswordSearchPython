@@ -1,6 +1,6 @@
 # brutePasswordSearchPython
 
-A *O(n^k)* algorithme where *k* is the number of char to be found
+A *O(n^k)* algorithme where *k* is the number of char int the alphabet
 
 For example, on Gitpod VM,
 "jfj2" was found in 0.85 sec and
